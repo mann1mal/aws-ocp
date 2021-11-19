@@ -49,4 +49,5 @@ platform:
     - subnet-<id>
     - subnet-<id>
 publish: Internal 
+sshKey: <ssh-public-key>
 pullSecret: '<pull-secret>'
